@@ -1,6 +1,9 @@
 variables: 
+  #location: westus
   location: westus
+  #groupId: cse01
   groupId: cse01
+  #abbrevLocationName: westus
   abbrevLocationName: westus
   instanceCount: 1
   identifier: sample-function-app
